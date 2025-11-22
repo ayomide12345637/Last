@@ -1,0 +1,15 @@
+{
+  "name": "squadco-withdraw-live",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0",
+    "cors": "^2.8.5",
+    "express-rate-limit": "^7.4.1",
+    "firebase-admin": "^12.5.0"
+  }
+}
